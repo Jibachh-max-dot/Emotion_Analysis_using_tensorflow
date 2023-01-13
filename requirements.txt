@@ -3,3 +3,6 @@ protobuf==3.20.1
 streamlit==1.16.0
 numpy==1.23.4
 keras==2.11.0
+tensorflow-io-gcs-filesystem==0.29.0
+tensorflow-estimator==2.11.0
+tensorflow-intel==2.11.0
